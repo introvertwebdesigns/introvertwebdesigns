@@ -366,6 +366,11 @@ Full-Width Styles
   padding-top: 40px;
 }
 
+#main_content p {
+  font-family: 'Boogaloo', 'Calibri', Helvetica, Arial, sans-serif;
+  /*letter-spacing: 1px;*/
+}
+
 #footer_wrap {
   background: #212121;
 }
